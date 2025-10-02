@@ -3,10 +3,13 @@
 My name is Gregory A. Meadows. Better known using my online persona, GregoryAM. \
 I am described as a multipotentialite, or someone who has their hands in a bit of everything.
 
-- 🔭 I'm currently working on [[Re]Structure]() a plugin for [MCreator]() that creates datapack-driven structures.
+- 🔭 I'm currently working on [[Re]Structure](https://github.com/GregoryAM-SP/ReStructure-Plugin) a plugin for [MCreator](https://github.com/MCreator/MCreator) that creates datapack-driven structures.
 - 🌱 I'm currently learning Java and back-end development.
 - ⚡ Fun fact: I'm a high-school dropout who has dedicated all my free time to development.
 - 😄 Pronouns: He / Him.
+
+### Needing to get back into:
+- [The Minecraft Overviewer | Successor](https://github.com/GregoryAM-SP/The-Minecraft-Overviewer)
 
 ### How you can reach me:
 - [Send an email](mailto:dev@gregoryam.com)
