@@ -15,7 +15,6 @@ I am described as a multipotentialite, or someone who has their hands in a bit o
 - [Send an email](mailto:dev@gregoryam.com)
 - [Bluesky](https://bsky.app/profile/gregoryam.bsky.social)
 - [Twi... 𝕏](https://x.com/_GregoryAM_)
-- [Threads](https://threads.com/gregory_a.m)
 
 <!--
 ## Hi there 👋
